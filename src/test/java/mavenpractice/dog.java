@@ -36,6 +36,7 @@ public class dog {
 	d.bark();
 	d.eat();
 	d.run();
+
 	}
 
 }

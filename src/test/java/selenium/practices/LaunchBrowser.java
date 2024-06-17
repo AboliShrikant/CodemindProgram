@@ -11,7 +11,6 @@ public class LaunchBrowser {
 		driver.get("https://www.google.com");
 		driver.manage().window().maximize();
 		driver.close();
-		
 	}
 
 }

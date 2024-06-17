@@ -15,13 +15,14 @@ public class Inheritance {
 		System.out.println(f.colour);
 		System.out.println(f.Speed);
 		
-		System.out.println("********************************************");
+		System.out.println("twoWheeler");
 		TwoWheeler t=new TwoWheeler();
 		System.out.println(t.manufacturar);
 		System.out.println(t.model);
 		System.out.println(t.colour);
 		System.out.println(t.Speed);
-		
+		System.out.println("program executed");
+
 	}
 
 }

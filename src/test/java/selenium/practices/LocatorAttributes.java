@@ -47,9 +47,7 @@ public class LocatorAttributes {
 		{
 			System.out.println(ele.getAttribute("href"));
 		}
-		
-		
-		System.out.println("Program executed sucessfully.");
+		driver.quit();		
 	}
 
 }
